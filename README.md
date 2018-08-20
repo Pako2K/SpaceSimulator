@@ -1,2 +1,2 @@
-# SolarSystem
-Solar System simulation
+# Space Simulator
+Solar System simulation with the option to manage a space ship
